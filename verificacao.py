@@ -1,5 +1,5 @@
 # encoding utf-8
-def verificaSubSetSum(C,A,B):
+def verificaPartition(C,A,B):
     """
     :param C: [(int)] conjunto que contém os conjuntos A e B
     :param A: [(int)] primeiro conjunto da solução
