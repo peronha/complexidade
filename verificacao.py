@@ -1,7 +1,7 @@
 # encoding utf-8
 def verificaPartition(C,A,B):
     """
-    :param C: [(int)] conjunto que contém os conjuntos A e B
+    :param C: [(int)] conjunto que deve conter os conjuntos A e B
     :param A: [(int)] primeiro conjunto da solução
     :param B: [(int)] segundo conjunto da solução
     :return: boolean: true se os subconjuntos pertencem a C, são disjuntos e suas somas são iguais
